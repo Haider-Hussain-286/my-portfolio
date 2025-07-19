@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navbar {
+    height: 70px;
+    background-color: #170833 ;
+     color:white;
+     display:block
+     position: fixed;
+     width: 100%;
+     top: 0;
+     z-index: 1000;
+
+}
+button {
+    background-color:#00c3ff;
+    font-size: 13px;
+}
+#logo {
+    color: #ffee06;
+    font-size: 27px;
+    font-style: bold;
+    text-decoration: none;
+    margin: 31px 350px 23px 15px;
+   padding-bottom: 23px;
+   
+}
+#page_one {
+    color: #ffee06;
+    font-size: 22px;
+    font-style:italic;
+    text-decoration: none;
+
+
+}
+#page_two {
+    color: #ffee06;
+    font-size: 22px;
+    font-style: italic;
+    text-decoration: none;
+}
+#home_page {
+    color: #ffee06;
+    font-size: 22px;
+    font-style: italic;
+    text-decoration: none;
+}
+a {
+    margin-right: 140px;
+    font-size: 19px;
+}
+.profile{
+    margin:45px 40px 30px 500px;
+     display: flex;
+   align-items: center;
+   gap:20px;
+}
+.profile-img{
+    height:170px;
+    width:170px;
+    border-radius: 100px;
+}
+.name{
+   font-size:200%;
+   font-family: bold;
+}
+.contentbox{
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+.contentlist{
+    padding-left: 60px;
+    padding-right: 35px;
+    margin-bottom: 30px;
+    font-size: 27px;
+}
+.about_me {
+    margin-bottom:30px;
+    padding-left:35px;
+    font-size: 30px;
+    font-family:arial;
+ 
+}
+.main_heading {
+    font-size:31px;
+}
