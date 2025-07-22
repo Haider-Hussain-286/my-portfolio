@@ -88,3 +88,105 @@ a {
 .main_heading {
     font-size:31px;
 }
+/*Mobile_View*/
+@media screen and (max-width:600px){
+    * {
+  margin: 0;
+  padding: 0;
+}
+
+    html,body {
+     max-width: 100%;
+     overflow-x: hidden;
+    }
+    #navbar {
+        /*navbar_for_mobile*/
+
+        padding:o;
+        margin: 0px;s;
+        height: 50px;
+        background-color: #170833 ;
+        color:white;
+        display:flex;
+        width: 100%;    
+        max-width: 100%;   
+        box-sizing: border-box; 
+     
+}
+    #logo {
+    color: #ffee06;
+    font-size: 18px;
+    font-style: bold;
+    text-decoration: none;
+    margin: 8px 38px 18px 10px;
+    padding-bottom: 23px;
+    }
+    #home_page {
+    color: #ffee06;
+    font-size: 15px;
+    font-style: italic;
+    text-decoration: none;
+    margin-top: 12px;
+    margin-right: 25px;
+    margin-bottom: 12px;
+    }
+    #page_one {
+    color: #ffee06;
+    font-size: 15px;
+    font-style:italic;
+    text-decoration: none;
+    margin-right:25px ;
+    margin-top: 12px;
+    margin-bottom:12px;
+}
+#page_two {
+    color: #ffee06;
+    font-size: 12px;
+    font-style: italic;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 17px;
+    margin-bottom: 10px;   
+}
+/*LOGO_FOR_MOBILES*/
+   .profile{
+    margin:20px 50px 20px 50Px;
+    display: flex;
+   align-items: center;
+   gap:20px;
+   text-align: center; 
+}
+.profile-img{
+    height:120px;
+    width:120px;
+    border-radius: 100px;
+    
+}
+.name{
+   font: size 100px;%;
+   font-family: bold;
+}
+.contentbox{
+    padding-left: 20px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+.eb{
+    font-size:20px;
+    font-family: bold;;
+}
+.contentlist{
+    padding-left: 30px;
+    padding-right: 19px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.about_me {
+    margin-bottom:25px;
+    padding-left:20spx;
+    font-size: 22px;
+    font-family:arial;
+ 
+}
+}
