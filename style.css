@@ -24,7 +24,7 @@ button {
     font-style: bold;
     text-decoration: none;
     margin: 31px 350px 23px 15px;
-   padding-bottom: 23px;
+    padding-bottom: 12px 12px 12px 12px;
    
 }
 #page_one {
@@ -32,6 +32,9 @@ button {
     font-size: 22px;
     font-style:italic;
     text-decoration: none;
+    padding:15px 10px 15px 10px
+     margin-bottom: 40px;
+    margin-top: 40px;
 
 
 }
@@ -40,12 +43,19 @@ button {
     font-size: 22px;
     font-style: italic;
     text-decoration: none;
+    margin-right: 10px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding:15px 10px 15px 10px
 }
 #home_page {
     color: #ffee06;
     font-size: 22px;
     font-style: italic;
     text-decoration: none;
+    padding:15px 10px 15px 10px
+     margin-bottom: 40px;
+    margin-top: 40px;
 }
 a {
     margin-right: 140px;
@@ -88,7 +98,6 @@ a {
 .main_heading {
     font-size:31px;
 }
-/*Mobile_View*/
 @media screen and (max-width:360px){
     * {
   margin: 0;
@@ -165,7 +174,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}
+}5
 .name{
    font: size 90px;
    font-family: bold;
@@ -269,7 +278,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}
+}5
 .name{
    font: size 90px;
    font-family: bold;
@@ -373,7 +382,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}
+}5
 .name{
    font: size 90px;
    font-family: bold;
@@ -479,7 +488,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}
+}5
 .name{
    font: size 90px;
    font-family: bold;
@@ -508,7 +517,7 @@ a {
 }
 }
 
-@media screen and (min-width:600px) and (max-width:800px) {
+@media screen and (min-width:600px) and (max-width:768px) {
     * {
   margin: 0;
   padding: 0;
@@ -584,7 +593,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}
+}5
 .name{
    font: size 90px;
    font-family: bold;
@@ -613,7 +622,110 @@ a {
 }
 }
 /*Responsive_For_Tablets(769px to 820px)*/
+@media screen and (min-width:769px) and (max-width:800px) {
+    * {
+  margin: 0;
+  padding: 0;
+}
 
+    html,body {
+     max-width: 100%;
+     overflow-x: hidden;
+    }
+    #navbar {
+        /*navbar_for_mobile*/
+
+        padding:o;
+        margin: 0px;
+        height: 65px;
+        background-color: #170833 ;
+        color:white;
+        display:flex;
+        width: 100%;    
+        max-width: 100%;   
+        box-sizing: border-box; 
+     
+}
+    #logo {
+    color: #ffee06;
+    font-size: 25px;
+    font-style: bold;
+    text-decoration: none;
+    margin: 8px 150px 30px 10px;
+    padding-bottom: 23px;
+    }
+    #home_page {
+    color: #ffee06;
+    font-size: 22px;
+    font-style: italic;
+    text-decoration: none;
+    margin-top: 17px;
+    margin-right: 100px;
+    margin-bottom: 12px;
+    }
+    #page_one {
+    color: #ffee06;
+    font-size: 22px;
+    font-style:italic;
+    text-decoration: none;
+    margin-right:100px ;
+    margin-top: 17px;
+    margin-bottom:12px;
+}
+a {
+    margin-right: 140px;
+    font-size: 19px;
+}
+#page_two {
+    color: #ffee06;
+    font-size:22px;
+    font-style: italic;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 17px;
+    margin-bottom: 10px;   
+}
+/*LOGO_FOR_MOBILES*/
+   .profile{
+    margin:25px 300px 15px 300px;
+    display: flex;
+    align-items: center;
+    gap:10px;
+    text-align: center; 
+}
+.profile-img{
+    height:150px;
+    width:150px;
+    border-radius: 100px;
+    
+}
+.name{
+   font: size 100px;
+   font-family: bold;
+}
+.contentbox{
+    padding-left: 20px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+    font-size: 19px;
+}
+.eb{
+    font-size:22px;
+    font-family: bold;;
+}
+.contentlist{
+    padding-left: 30px;
+    padding-right: 19px;
+    margin-bottom: 20px;
+    font-size: 21px;
+}
+.about_me {
+    margin-bottom:25px;
+    padding-left:20spx;
+    font-size: 22px;
+    font-family:arial;
+}
+}
 /*Responsive_For_Tablets(821px to 1024px)*/
 @media screen and (min-width:801px) and (max-width:1024px) {
     * {
@@ -719,10 +831,3 @@ a {
     font-family:arial;
 }
 }
-
-
-
-
-
-
-
