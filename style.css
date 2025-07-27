@@ -165,7 +165,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -269,7 +269,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -373,7 +373,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -403,7 +403,7 @@ a {
 
 
 }
-@media screen and (min-width:501px) and (max-width:600px) {
+@media screen and (min-width:501px) and (max-width:599px) {
     * {
   margin: 0;
   padding: 0;
@@ -479,7 +479,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -508,7 +508,7 @@ a {
 }
 }
 
-@media screen and (min-width:601px) and (max-width:820px) {
+@media screen and (min-width:600px) and (max-width:800px) {
     * {
   margin: 0;
   padding: 0;
@@ -615,7 +615,7 @@ a {
 /*Responsive_For_Tablets(769px to 820px)*/
 
 /*Responsive_For_Tablets(821px to 1024px)*/
-@media screen and (min-width:821px) and (max-width:1024px) {
+@media screen and (min-width:801px) and (max-width:1024px) {
     * {
   margin: 0;
   padding: 0;
