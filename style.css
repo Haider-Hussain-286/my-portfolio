@@ -669,30 +669,30 @@ a {
 }
     #logo {
     color: #ffee06;
-    font-size: 23px;
+    font-size: 20px;
     font-style: bold;
     text-decoration: none;
-    margin: 0px 100px 12px 0px;
+    margin: 0px 80px 12px 0px;
     padding-bottom: 0px;
     padding-top: 6px;
     padding-left: 15px;
     }
     #home_page {
     color: #ffee06;
-    font-size: 18px;
+    font-size: 15px;
     font-style: italic;
     text-decoration: none;
     margin-top: 6px;
-    margin-right: 75px;
+    margin-right: 65px;
     margin-bottom: 10px;
     padding-top: 10px;
     }
     #page_one {
     color: #ffee06;
-    font-size: 20px;
+    font-size: 15px;
     font-style:italic;
     text-decoration: none;
-    margin-right:75px ;
+    margin-right:65px ;
     margin-top: 6px;
     margin-bottom:10px;
     padding-top: 10px;
@@ -703,7 +703,7 @@ a {
 }
 #page_two {
     color: #ffee06;
-    font: size 18px;
+    font: size 15px;
     font-style: italic;
     text-decoration: none;
     margin-right: 10px;
