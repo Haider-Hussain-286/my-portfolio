@@ -637,7 +637,7 @@ a {
 
         padding:o;
         margin: 0px;
-        height: 65px;
+        height: 60px;
         background-color: #170833 ;
         color:white;
         display:flex;
@@ -648,29 +648,33 @@ a {
 }
     #logo {
     color: #ffee06;
-    font-size: 25px;
+    font-size: 23px;
     font-style: bold;
     text-decoration: none;
-    margin: 8px 150px 30px 10px;
-    padding-bottom: 23px;
+    margin: 0px 100px 12px 0px;
+    padding-bottom: 0px;
+    padding-top: 6px;
+    padding-left: 15px;
     }
     #home_page {
     color: #ffee06;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
     text-decoration: none;
-    margin-top: 17px;
-    margin-right: 100px;
-    margin-bottom: 12px;
+    margin-top: 6px;
+    margin-right: 75px;
+    margin-bottom: 10px;
+    padding-top: 10px;
     }
     #page_one {
     color: #ffee06;
-    font-size: 22px;
+    font-size: 20px;
     font-style:italic;
     text-decoration: none;
-    margin-right:100px ;
-    margin-top: 17px;
-    margin-bottom:12px;
+    margin-right:75px ;
+    margin-top: 6px;
+    margin-bottom:10px;
+    padding-top: 10px;
 }
 a {
     margin-right: 140px;
@@ -678,16 +682,17 @@ a {
 }
 #page_two {
     color: #ffee06;
-    font-size:22px;
+    font: size 18px;
     font-style: italic;
     text-decoration: none;
     margin-right: 10px;
-    margin-top: 17px;
+    margin-top: 5px;
     margin-bottom: 10px;   
+    padding-top: 10px;
 }
 /*LOGO_FOR_MOBILES*/
    .profile{
-    margin:25px 300px 15px 300px;
+    margin:25px 250px 15px 250px;
     display: flex;
     align-items: center;
     gap:10px;
