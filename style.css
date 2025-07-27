@@ -131,10 +131,10 @@ a {
     font-size: 18px;
     font-style: bold;
     text-decoration: none;
-      margin: 0px 65px 12px 0px;
+    margin: 0px 65px 10px 0px;
     padding-bottom: 0px;
     padding-top: 6px;
-    padding-left: 15px;
+    padding-left: 7px;
     }
     #home_page {
     color: #ffee06;
@@ -182,7 +182,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -242,7 +242,7 @@ a {
      margin: 0px 65px 12px 0px;
     padding-bottom: 0px;
     padding-top: 6px;
-    padding-left: 15px;
+    padding-left: 10px;
     }
     #home_page {
     color: #ffee06;
@@ -289,7 +289,7 @@ a {
     width:120px;
     border-radius: 100px;
     
-}5
+}
 .name{
    font: size 90px;
    font-family: bold;
@@ -349,7 +349,7 @@ a {
     margin: 0px 80px 12px 0px;
     padding-bottom: 0px;
     padding-top: 6px;
-    padding-left: 15px;
+    padding-left: 10px;
     }
     #home_page {
     color: #ffee06;
