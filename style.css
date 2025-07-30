@@ -368,7 +368,7 @@
 }
 /*LOGO_FOR_MOBILES*/
    .profile{
-    margin:20px 100px 12px 100px;
+    margin:35px 100px 12px 100px;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -395,8 +395,9 @@
    .eb{
     font-size:20px;
     font-family: bold;
-}
-.contentlist{
+    }
+    
+   .contentlist{
     padding-left: 30px;
     padding-right: 19px;
     margin-bottom: 20px;
@@ -471,7 +472,7 @@
        }
           /*LOGO_FOR_MOBILES*/
       .profile{
-       margin:15px 170px 15px 170px;
+       margin:25px 170px 12px 170px;
        display: flex;
        align-items: center;
        gap: 12px;
@@ -587,7 +588,7 @@
     
            /*LOGO_FOR_MOBILES*/
           .profile{
-           margin:15px 175px 15px 175px;
+           margin: 28px 175px 12px 175px;
            display: flex;
            align-items: center;
            gap:10px;
