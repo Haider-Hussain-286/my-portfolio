@@ -4,26 +4,22 @@
 }
 
 #navbar {
-    height: 65px;
-    background-color: #170833 ;
+     height: 60px;
+     background-color: #170833 ;
      color:white;
-     display:block
+     display:block;
      position:fixed;
      width:100%;
      top:0;
      z-index: 1000;
 
 }
-button {
-    background-color:#00c3ff;
-    font-size: 13px;
-}
 #logo {
     color: #ffee06;
-    font-size: 27px;
+    font-size: 25px;
     font-style: bold;
     text-decoration: none;
-    margin: 0px 300px 12px 0px;
+    margin: 15px 320px 15px 10px;
     padding-bottom: 0px;
     padding-top: 6px;
     padding-left: 15px;
@@ -34,69 +30,55 @@ button {
     font-size: 22px;
     font-style:italic;
     text-decoration: none;
-    padding:10px 15px 45px 15px
-    margin-right: 90px ;
-    margin-top: 8px;
-    margin-bottom:10px;
-    
-
-
+    padding:12px 15px 30px 15px;
+    margin:12px 100px 12px 0px;
 }
 #page_two {
     color: #ffee06;
     font-size: 22px;
     font-style: italic;
     text-decoration: none;
-    margin-right: 10px;
-    margin-bottom: 40px;
-    margin-top: 40px;
-    padding:15px 10px 15px 10px
+    margin: 12px 100px 35px 2px;
+    padding:15px 10px 15px 10px;
 }
 #home_page {
-    color: #ffee06;
-    font-size: 22px;
-    font-style: italic;
-    text-decoration: none;
-    padding:15px 10px 15px 10px
-     margin-bottom: 40px;
-    margin-top: 40px;
-}
-a {
-    margin-right: 140px;
-    font-size: 19px;
+     color: #ffee06;
+     font-size: 24px;
+     font-style: italic;
+     text-decoration: none;
+     margin:12px 100px 12px 02px;
 }
 .profile{
-    margin:45px 40px 30px 500px;
+     margin:72px 40px 30px 500px;
      display: flex;
-   align-items: center;
-   gap:20px;
+     align-items: center;
+     gap:20px;
 }
 .profile-img{
-    height:170px;
-    width:170px;
-    border-radius: 100px;
+     height:170px;
+     width:170px;
+     border-radius: 100px;
 }
 .name{
-   font-size:200%;
-   font-family: bold;
+     font-size:200%;
+     font-family: bold;
 }
 .contentbox{
-    padding-left: 35px;
-    padding-right: 35px;
-    margin-bottom: 30px;
-    font-size: 25px;
+     padding-right: 35px;
+     margin-bottom: 30px;
+     font-size: 25px;
 }
 .contentlist{
-    padding-left: 60px;
-    padding-right: 35px;
-    margin-bottom: 30px;
+     padding-left: 60px;
+     padding-right: 35px;
+     margin-bottom: 30px;
     font-size: 27px;
 }
 .about_me {
-    margin-bottom:30px;
-    padding-left:35px;
-    font-size: 30px;
-    font-family:arial;
+     margin-bottom:30px;
+     padding-left:35px;
+     font-size: 30px;
+     font-family:arial;
  
 }
 .main_heading {
